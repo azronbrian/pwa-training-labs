@@ -102,6 +102,13 @@ a {
   width: 100%;
 }
 
+.banner {
+  align-content: center;
+  display: none;
+  justify-content: center;
+  width: 100%;
+}
+
 footer {
   align-items: center;
   background-color: #FF9800;
